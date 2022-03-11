@@ -1,6 +1,5 @@
-# rblxhub
-rblxscripts hub
-Rebrand coming soon...
+# unfair hub
+unfair hub
 
 Games:
 Bedwars
