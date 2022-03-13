@@ -12,3 +12,4 @@ Strucid
 Those Who Remain
 Custom Duels
 Assassin
+Giant Simulator
